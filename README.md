@@ -17,18 +17,18 @@ Top P Sampling: Analyzes how different sampling techniques affect the variabilit
 Penalty Parameters: Shows the effects of frequency and presence penalties on repetition and novelty.
 Supplementary Data: Compressed .zip file containing all experimental scripts for reproducibility.
 
-License
+License /
 This project is released under the Creative Commons Zero v1.0 Universal License (CC0).
 You are free to use, modify, and distribute the code without any restrictions.
 For details, see the LICENSE file.
 
-Citation
+Citation /
 If you use this repository in your research, please cite the original article:
 Title: Critical Philosophy and the Foundations of Prompting in Artificial Intelligence
 Author: Jorge González Arocha
 
 
-Contact
+Contact / 
 For questions, suggestions, or collaborations, please contact:
 Dr. Jorge González Arocha
 Executive Director | Dialektika
